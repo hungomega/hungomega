@@ -9,7 +9,7 @@
 ## 📜 Certificates
 
 - 💥 TOEIC 570 (03/2026)
-- 💻 F8 Frontend Web Development Certificate (10/2026)
+- 💻 F8 Frontend Web Developer Certificate (10/2026)
 
 ## 🛠️ Tech Stack
 
