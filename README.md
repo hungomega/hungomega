@@ -6,6 +6,11 @@
 - ❤️ Interested in Web Frontend & Embedded Software
 - 💥 Learning NodeJS Fullstack
 
+## 📜 Certificates
+
+- 🇬🇧 TOEIC 570 (2026)
+- 💻 F8 Fullstack Web Development Certificate (2026)
+
 ## 🛠️ Tech Stack
 
 ### 🔹 Languages
