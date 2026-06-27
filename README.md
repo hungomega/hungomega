@@ -30,6 +30,7 @@
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+<img width="285" height="89" alt="image" src="https://github.com/user-attachments/assets/94aeeb08-5ab4-45ff-b01e-20ef448b80c1" />
 
 ### 🔹 Database
 
