@@ -17,7 +17,6 @@
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=3776AB)
 
 ### 🔹 Web
 
