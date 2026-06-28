@@ -14,10 +14,10 @@
 ## 🛠️ Tech Stack ( 10/2026)
 
 ### 🔹 Languages
-
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ### 🔹 Web
 
