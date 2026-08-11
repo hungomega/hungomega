@@ -10,6 +10,7 @@
 
 - 💥 TOEIC 570 (03/2026)
 - 💻 F8 Frontend Web Developer Certificate (10/2026)
+- 💻 F8 Fullstack Nodejs Web Developer Certificate (02/2027)
 
 ## 🛠️ Tech Stack ( 10/2026)
 
