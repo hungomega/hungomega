@@ -55,3 +55,36 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white)
+
+## 🛠️ Tech Stack
+
+### 🔹 Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white)
+
+### 🔹 Fullstack Node.js
+
+```text
+                    FULLSTACK NODE.JS
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+         FRONTEND                    BACKEND
+             │                           │
+       HTML / CSS                  Node.js
+       JavaScript                 Express.js
+       TypeScript                 REST API
+       React                      Authentication
+       Next.js                    Authorization
+             │                           │
+             └─────────────┬─────────────┘
+                           │
+                        DATABASE
+                           │
+                        MongoDB
+                           │
+                     DEVELOPMENT TOOLS
+                           │
+                    Git / GitHub / Vite
