@@ -12,7 +12,7 @@
 - 💻 F8 Frontend Web Developer Certificate (10/2026)
 - 💻 F8 Fullstack Nodejs Web Developer Certificate (02/2027)
 
-## 🛠️ Tech Stack ( 10/2026)
+## 🛠️ Tech Stack ( 02/2027)
 
 ### 🔹 Languages
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
