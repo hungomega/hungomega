@@ -35,8 +35,9 @@
 ### 🔹 Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+
 
 ### 🔹 Database
 
