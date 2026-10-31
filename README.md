@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/team.jpg" alt="Memories with friends at PTIT" width="650">
+  <img src="./assets/team.jpg" alt="Memories with friends at PTIT" width="400">
 </p>
 
 <p align="center">
