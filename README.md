@@ -92,13 +92,7 @@
 ```
 
 ---
-### 🔹 Embedded Software
 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6DB33F?style=flat&logo=freertos&logoColor=white)
-![UART](https://img.shields.io/badge/UART-007396?style=flat)
-![I2C](https://img.shields.io/badge/I2C-FF9800?style=flat)
-![SPI](https://img.shields.io/badge/SPI-7952B3?style=flat)
 <p align="center">
   <i>Building projects, learning every day, and moving forward 🚀</i>
 </p>
