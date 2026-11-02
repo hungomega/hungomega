@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Nguyen Huu Hung</h1>
+<h1 align="center">👋 Hi, I'm Nguyễn Hữu Hùng </h1>
 
 <p align="center">
   🎓 PTIT 2023–2028 | Computer Electronics Engineering<br>
